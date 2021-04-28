@@ -1,0 +1,33 @@
+header{
+    padding:50px;
+}
+.container{
+    width:725px;
+    margin:auto;
+}
+.input-group-text{
+    text-decoration: none;
+    color:grey;
+    border-radius: 6.25rem;
+    padding:15px;
+    width:8%;
+}
+.input-group-text:hover{
+    color:grey;
+}
+.form-control{
+    border-radius: 6.25rem;
+}
+.custom-input{
+    border-radius: 50px 20px 30px;
+}
+input[type="text"], textarea {
+    box-shadow:none !important;
+}
+.btn:focus{
+    box-shadow:none !important;
+}
+.btn{
+    border-radius:10px 25px;
+    width:13%;
+}  
